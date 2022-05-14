@@ -2,16 +2,14 @@
 
 STOCKOP is a one-stop solution that helps to analyze, track and learn more about the stock market. It aims to provide news and provide real-time tracking. This app focuses on bringing together multiple investment opportunities for the growing number of first-time and young investors thus bringing new generations into it.
     
-<div align="center">
-  <div style="display: flex;">
-        <img align=top src="https://github.com/uneconomicalfairy14/stockop/blob/master/assets/1.png?raw=true"/>
-        <img align=top src="https://github.com/uneconomicalfairy14/stockop/blob/master/assets/2.png?raw=true"/>
-        <img align=top src="https://github.com/uneconomicalfairy14/stockop/blob/master/assets/3.png?raw=true"/>
-  </div>
-</div>
-<!-- ![alt text](https://github.com/uneconomicalfairy14/stockop/blob/master/assets/1.png?raw=true)
-![alt text](https://github.com/uneconomicalfairy14/stockop/blob/master/assets/2.png?raw=true)
-![alt text](https://github.com/uneconomicalfairy14/stockop/blob/master/assets/3.png?raw=true) -->
+<table>
+  <tr>
+    <td valign="top"><img src="https://github.com/uneconomicalfairy14/stockop/blob/master/assets/1.png?raw=false"/></td>
+    <td valign="top"><img src="https://github.com/uneconomicalfairy14/stockop/blob/master/assets/2.png?raw=false"/></td>
+    <td valign="top"><img src="https://github.com/uneconomicalfairy14/stockop/blob/master/assets/3.png?raw=false"/></td>
+  </tr>
+</table>
+
 
 # Sentiment analysis of articles
 
