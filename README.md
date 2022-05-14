@@ -3,6 +3,12 @@
 STOCKOP is a one-stop solution that helps to analyze, track and learn more about the stock market. It aims to provide news and provide real-time tracking. This app focuses on bringing together multiple investment opportunities for the growing number of first-time and young investors thus bringing new generations into it.
 
 
+#Sentiment analysis of articles
+
+This the main featur of our app. Basically this fearure scraps articles from the newsapi website and runs a nlp model on it and provides us with the compund score of the article. If the compound score is positive the article is good for the performance of the stock. The same goes for the negative part. 
+
+this thus reduces the amount of time spent by investment bankers on reading articles and is also a good way for beginners to enter this field
+
 ### Dependencies
 ```
 pip3 install nltk newsapi-python pandas 
